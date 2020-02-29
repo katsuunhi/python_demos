@@ -1,0 +1,16 @@
+2020-01-17 11:52:06,541:'s'
+2020-01-17 11:52:06,760:'s'
+2020-01-17 11:52:07,335:Key.backspace
+2020-01-17 11:52:07,469:Key.backspace
+2020-01-17 11:52:07,945:Key.alt_l
+2020-01-17 11:52:08,010:Key.tab
+2020-01-17 11:53:02,292:Running job Every 60 seconds do job() (last run: [never], next run: 2020-01-17 11:53:02)
+2020-01-17 11:54:02,293:Running job Every 60 seconds do job() (last run: 2020-01-17 11:53:02, next run: 2020-01-17 11:54:02)
+2020-01-17 11:55:02,294:Running job Every 60 seconds do job() (last run: 2020-01-17 11:54:02, next run: 2020-01-17 11:55:02)
+2020-01-17 11:56:02,294:Running job Every 60 seconds do job() (last run: 2020-01-17 11:55:02, next run: 2020-01-17 11:56:02)
+2020-01-17 11:57:02,295:Running job Every 60 seconds do job() (last run: 2020-01-17 11:56:02, next run: 2020-01-17 11:57:02)
+2020-01-17 11:58:02,296:Running job Every 60 seconds do job() (last run: 2020-01-17 11:57:02, next run: 2020-01-17 11:58:02)
+2020-01-17 11:59:02,296:Running job Every 60 seconds do job() (last run: 2020-01-17 11:58:02, next run: 2020-01-17 11:59:02)
+2020-01-17 12:00:02,297:Running job Every 60 seconds do job() (last run: 2020-01-17 11:59:02, next run: 2020-01-17 12:00:02)
+2020-01-17 12:01:02,297:Running job Every 60 seconds do job() (last run: 2020-01-17 12:00:02, next run: 2020-01-17 12:01:02)
+2020-01-17 12:02:02,298:Running job Every 60 seconds do job() (last run: 2020-01-17 12:01:02, next run: 2020-01-17 12:02:02)
